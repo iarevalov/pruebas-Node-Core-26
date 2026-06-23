@@ -69,4 +69,4 @@ console.log(miSaludo.length);
 miSaludo = miSaludo.trim();
 
 // '.trim()' --> ELIMINA ESPACIOS AL INICIO Y AL FINAL DEL STRING
-console.log(miSaludo)
+console.log(miSaludo);
