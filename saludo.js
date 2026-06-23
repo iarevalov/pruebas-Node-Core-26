@@ -63,13 +63,10 @@ console.log(miSaludo.toUpperCase());
 // '.toLowerCase()' --> PASA TODO A MINUSCULAS
 console.log(miSaludo.toLowerCase());
 
-// console.log(miSaludo.length);
+console.log(miSaludo.length);
 
 // OPERATIVA DE GRABACION EN LA MISMA VARIABLE
 miSaludo = miSaludo.trim();
 
 // '.trim()' --> ELIMINA ESPACIOS AL INICIO Y AL FINAL DEL STRING
 console.log(miSaludo)
-
-
-
